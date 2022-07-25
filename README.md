@@ -14,3 +14,6 @@
 
 
 ### 게임플레이
+![1](https://user-images.githubusercontent.com/70570420/180697832-5439127d-5e04-484f-a0d1-d865dfa1754e.png)
+![2](https://user-images.githubusercontent.com/70570420/180697847-87d59b76-d8ca-45ab-9c79-049b08c485c0.png)
+![3](https://user-images.githubusercontent.com/70570420/180697859-6d8ea33d-5cec-45a2-9942-9acf44d985fb.png)
